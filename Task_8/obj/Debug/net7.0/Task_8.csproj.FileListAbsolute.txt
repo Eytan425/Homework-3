@@ -1,0 +1,14 @@
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\bin\Debug\net7.0\Task_8.exe
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\bin\Debug\net7.0\Task_8.deps.json
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\bin\Debug\net7.0\Task_8.runtimeconfig.json
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\bin\Debug\net7.0\Task_8.dll
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\bin\Debug\net7.0\Task_8.pdb
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\Task_8.AssemblyInfoInputs.cache
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\Task_8.AssemblyInfo.cs
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\Task_8.csproj.CoreCompileInputs.cache
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\Task_8.dll
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\refint\Task_8.dll
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\Task_8.pdb
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\Task_8.genruntimeconfig.cache
+c:\Users\eytan\OneDrive\Desktop\Coding\C#\Homework 2023\Homework_3\Task_8\obj\Debug\net7.0\ref\Task_8.dll
