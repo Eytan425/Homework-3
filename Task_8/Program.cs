@@ -41,18 +41,18 @@ class Program
     public static bool num_4(int[] array)
     {
         int count = 0;
-        for(int i = 0; i < array.Length / 2; i++)
+        int[] reversedArray = array.Reverse().ToArray();
+        Console.WriteLine(string.Join(", ", array));
+        Console.WriteLine(string.Join(", ", reversedArray));
+
+        for(int i = 0; i < array.Length; i++)
         {
-           for(int j = -1; j < array.Length / 2; j--)
-           {
-                if(array[i] == array[j])
-                {
-                    count++;
-                }
-                //fox error
-           }
+            if(array[i] == reversedArray[i])
+            {
+                count++;
+            }
         }
-        if(array.Length - 1 == count)
+        if(array.Length == count)
         {
             return true;
         }
@@ -62,11 +62,22 @@ class Program
         }
         
     }
+    public static void num_5(int[] array)
+    {
+        int[] new_array = new int[array.Length];
+        Console.WriteLine(string.Join(", ", array));
+        for(int i = -1; i < array.Length; i--)
+        {
+            array[i] = array[i + 1];
+        }
+        Console.WriteLine(string.Join(", ", array));
+
+    }
     public static void Main()
     {
-        int[] array = new int[]{1,2,3,2,1};
+        int[] array = new int[]{5,7,3,6};
         
-        Console.WriteLine(num_4(array));
+        num_5(array);
 
         Console.ReadKey();
     }
