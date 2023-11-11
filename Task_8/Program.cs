@@ -65,17 +65,20 @@ class Program
     public static void num_5(int[] array)
     {
         int[] new_array = new int[array.Length];
-        Console.WriteLine(string.Join(", ", array));
-        for(int i = -1; i < array.Length; i--)
+        
+        new_array[0] = array[array.Length - 1];
+        
+        for(int i = 0; i < array.Length - 1; i++)
         {
-            array[i] = array[i + 1];
+            new_array[i+1] = array[i];
         }
-        Console.WriteLine(string.Join(", ", array));
+        Console.WriteLine(string.Join(", ", new_array));
+
 
     }
     public static void Main()
     {
-        int[] array = new int[]{5,7,3,6};
+        int[] array = new int[]{1,2,3,4};
         
         num_5(array);
 
